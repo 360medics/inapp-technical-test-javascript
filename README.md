@@ -55,3 +55,8 @@ I should be able to navigate back to the blog articles list page from the articl
 
 ## Bonus: Liked articles
 As a user, I want to be able to mark an article as liked. I want to be able to see a list of liked articles from the home page only if there are liked articles.
+
+# Support
+You can ask for help in cases you are stuck or have a question.
+
+[Pascal Legroux](mailto:pascal.legroux@360medics.com) is the technical lead of this project.
