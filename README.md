@@ -27,6 +27,9 @@ npm run lint
 # Development Workflow
 You are free to use any workflow you like. We recommend using [Git](https://git-scm.com/) for version control and [VSCode](https://code.visualstudio.com/) for code editing.
 
+# Guidelines
+The application is designed to be run on mobile devices. It is not designed to be run on a desktop.
+
 # Features Requirements
 There are two main features to implement and a bonus feature.
 ## See a list of Blog articles
